@@ -6,10 +6,10 @@
 Scripts for use in Synthesizer V Studio Pro
 
 # Table of Contents
-- [Script List](https://github.com/Polarx-YZ/Synthesizer-V-Scripts/edit/main/README.md#script-list)
-  - [Lyric Manipulation](https://github.com/Polarx-YZ/Synthesizer-V-Scripts/edit/main/README.md#lyric-manipulation)
-- [How to Install](https://github.com/Polarx-YZ/Synthesizer-V-Scripts/edit/main/README.md#how-to-install)
-- [How to Use](https://github.com/Polarx-YZ/Synthesizer-V-Scripts/edit/main/README.md#how-to-use)
+- [Script List](#script-list)
+  - [Lyric Manipulation](#lyric-manipulation)
+- [How to Install](#how-to-install)
+- [How to Use](#how-to-use)
 ## Script List
 ### Lyric Manipulation
 - `ConvertTo-.js`: ? to -
