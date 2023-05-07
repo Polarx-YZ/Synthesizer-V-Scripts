@@ -2,7 +2,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/x9c9caAnqy)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/RCosmoto)
 
-# Synthesizer-V-Scripts
+# Synthesizer-Studio-V-Scripts
 Scripts for use in Synthesizer V Studio Pro
 
 # Table of Contents
