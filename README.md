@@ -7,9 +7,11 @@ Scripts for use in Synthesizer V Studio Pro
 
 # Table of Contents
 - [Script List](#script-list)
-  - [Lyric Manipulation](#lyric-manipulation)
+	- [Lyric Manipulation](#lyric-manipulation)
 - [How to Install](#how-to-install)
 - [How to Use](#how-to-use)
+- [TO-DO](#to-do)
+
 ## Script List
 ### Lyric Manipulation
 - `ConvertTo-.js`: ? to -
@@ -23,3 +25,8 @@ Scripts for use in Synthesizer V Studio Pro
 1. Open Synthesizer V Studio Pro
 2. Locate the scripts tab
 3. Click on the script you want to use and follow the instructions
+
+## TO-DO
+- [ ] Growl
+	- Customizable
+	- Shouldn't sound like drowning
